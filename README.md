@@ -1,4 +1,4 @@
-# causal_inference_for_ai
+# CAUSAL INFERENCE FOR AI
 
 > The causal machinery underpinning trustworthy machine-learning decisions, built from
 > scratch in pure NumPy. A 6-week masterclass: potential outcomes, causal DAGs &
